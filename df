@@ -1,0 +1,61 @@
+[33mcommit ee3667229e1a2e702ce9ed0114384a4234f3ad31[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Shailender-JFT <shailender.yadav@jellyfishtechnologies.com>
+Date:   Thu Jul 7 12:47:40 2022 +0530
+
+    https to ssh
+
+[33mcommit efaa2a09c6656ee79594091e0fc896d56596c4b4[m
+Merge: eaae9a3 57e47a2
+Author: Shailender-JFT <shailender.yadav@jellyfishtechnologies.com>
+Date:   Thu Jul 7 12:26:45 2022 +0530
+
+    save merge
+
+[33mcommit 57e47a2be55b60da1f8fbc426805383c02cbaf3d[m
+Merge: 137bfe0 226b806
+Author: raunaq <raunaq.narula@jellyfishtechnologies.com>
+Date:   Thu Jul 7 12:23:15 2022 +0530
+
+    Merge branch 'main' of https://github.com/raunaq-jft/practice into main
+
+[33mcommit eaae9a32b75f620edee2d575133cdb23328f9dfc[m
+Author: Shailender-JFT <shailender.yadav@jellyfishtechnologies.com>
+Date:   Thu Jul 7 12:22:49 2022 +0530
+
+    changes in readme
+
+[33mcommit 137bfe06d39926741c8aa13840c3b7ed97746860[m
+Author: raunaq <raunaq.narula@jellyfishtechnologies.com>
+Date:   Thu Jul 7 12:17:31 2022 +0530
+
+    commit
+
+[33mcommit 226b806a0c5c7def86471ff94610ac10ef2e2348[m
+Author: UzerJamal-jft <uzer.jamal@jellyfishtechnologies.com>
+Date:   Thu Jul 7 12:16:28 2022 +0530
+
+    Uzer changed
+
+[33mcommit 6cb7f44245c7833f08858fd138e684d29e1521c4[m
+Author: UzerJamal-jft <uzer.jamal@jellyfishtechnologies.com>
+Date:   Thu Jul 7 12:07:20 2022 +0530
+
+    Changed readme
+
+[33mcommit daf35d427e224ce5ffe9b88ec6f603767d424278[m
+Author: raunaq <raunaq.narula@jellyfishtechnologies.com>
+Date:   Thu Jul 7 11:41:58 2022 +0530
+
+    commit
+
+[33mcommit 77326e629707887cb4cb8f7ba6290a431a316cb3[m
+Author: raunaq <raunaq.narula@jellyfishtechnologies.com>
+Date:   Thu Jul 7 11:26:02 2022 +0530
+
+    initial commit
+
+[33mcommit 3d9ef20ce4e2609ed9c4c9625a09699c3e3e57b2[m
+Author: raunaq-jft <108716350+raunaq-jft@users.noreply.github.com>
+Date:   Thu Jul 7 11:19:08 2022 +0530
+
+    Initial commit
